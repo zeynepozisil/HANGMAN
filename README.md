@@ -1,4 +1,4 @@
-# HANGMAN :video_game:
+# <h1 align="center">:video_game: HANGMAN :video_game:
  Hangman Game MIPS Usage
  
 ![Screenshot](hangman.png)
