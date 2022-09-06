@@ -1,4 +1,4 @@
-# HANGMAN :man:
+# HANGMAN :video_game:
  Hangman Game MIPS Usage
  
 ![Screenshot](hangman.png)
